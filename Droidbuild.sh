@@ -16,4 +16,5 @@ target_twolip(){
 
 droidbuild_module(){
   # Dummy
+  echo 1 > /dev/null
 }
