@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="IceBreaker2451/android_device_xiaomi_twolip" path="device/xiaomi/twolip" revision="12.1" remote="github" />
+  <project name="crdroidandroid/android_device_xiaomi_twolip" path="device/xiaomi/twolip" revision="12" remote="github" />
   <project name="LineageOS/android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" revision="lineage-19.1" remote="github"  />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" revision="lineage-19.1" remote="github" />
   <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-19.1" remote="github" />
