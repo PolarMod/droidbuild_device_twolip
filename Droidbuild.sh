@@ -12,6 +12,7 @@ target_twolip(){
   TARGET_SIGNED_BUILD=true
   TARGET_HOSTS_CAT=2
   TARGET_USES_MICROG=0
+  TARGET_SUPPORTS_GMSCOMPAT=1
   target_build-device
 }
 
