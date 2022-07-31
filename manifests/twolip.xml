@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="crdroidandroid/android_device_xiaomi_twolip" path="device/xiaomi/twolip" revision="rebase" remote="github" />
+  <project name="PolarMod/android_device_xiaomi_twolip" path="device/xiaomi/twolip" revision="magika" remote="github" />
   <project name="crdroidandroid/android_vendor_xiaomi_twolip" path="vendor/xiaomi/twolip" revision="12.1" remote="github" />
   <project name="crdroidandroid/android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" revision="12.1" remote="github" />
 </manifest>    
