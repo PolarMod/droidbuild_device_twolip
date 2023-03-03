@@ -4,4 +4,5 @@
   <project name="muti605/vendor_xiaomi_twolip" path="vendor/xiaomi/twolip" revision="thirteen" remote="github" />
   <project name="PixelExperience-Devices/kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" revision="thirteen" remote="github" />
   <project name="PixelExperience-Devices/device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" revision="thirteen" remote="github" />
+  <project name="PixelExperience-Devices/vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" revision="thirteen" remote="github"/>
 </manifest>    
