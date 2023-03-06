@@ -1,12 +1,12 @@
-setup_target twolip
+setup_target tulip
 
-target_twolip(){
+target_tulip(){
   LOCAL_PATH=$(dirname $BASH_SOURCE)
   include $BASEDIR/droidbuild/build_vars.sh
   TARGET_NEEDS_RESYNC=true
-  TARGET_LOCAL_MANIFESTS+=($LOCAL_PATH/manifests/twolip.xml)
+  TARGET_LOCAL_MANIFESTS+=($LOCAL_PATH/manifests/tulip.xml)
   TARGET_ARCH_BITNESS=64
-  TARGET_CODENAME="twolip"
+  TARGET_CODENAME="tulip"
   TARGET_FULLNAME="Xiaomi Redmi Note 6 Pro"
   TARGET_BUILDTYPE="eng"
   TARGET_SIGNED_BUILD=true
