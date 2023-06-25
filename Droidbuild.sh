@@ -10,7 +10,7 @@ target_tulip(){
   TARGET_FULLNAME="Xiaomi Redmi Note 6 Pro"
   TARGET_BUILDTYPE="eng"
   TARGET_SIGNED_BUILD=true
-  TARGET_HOSTS_CAT=3
+  TARGET_HOSTS_CAT=2
   TARGET_SUPPORTS_GMSCOMPAT=1
   target_build-device
 }
